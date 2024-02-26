@@ -1,0 +1,4 @@
+services:  
+  notification.email_service:
+    class: Drupal\notification_update_nodes\ServiceNotification
+    arguments: ['@plugin.manager.mail', '@renderer','@config.factory']

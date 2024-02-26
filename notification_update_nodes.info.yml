@@ -1,0 +1,5 @@
+name: Notification Update Nodes
+type: module
+description: This module alerts us when content is modified.
+package: Custom
+core_version_requirement: ^9 || ^10
