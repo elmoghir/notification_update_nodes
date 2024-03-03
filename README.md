@@ -10,3 +10,5 @@
 </ul>
 <h4>Exemple Email</h4>
 <img src="./img/email.png">
+
+https://www.drupal.org/project/notification_update_nodes
